@@ -38,4 +38,4 @@ Textibox is still young, but it’s off to a strong start. In an internet filled
 
 Whether you want to jump on the Brat trend before it fades or just need a reliable place to process text, give it a look.
 
-👉 Check it out here: textibox.com
+👉 Check it out here: 🔗 [Live Demo](textibox.com)
